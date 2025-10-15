@@ -19,4 +19,4 @@ console.log("a =",a, "& b =",b);
 a++;
 console.log("a =",a);
 b--;
-console.log("b =",b);
+console.log("b is =",b);
